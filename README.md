@@ -1,6 +1,8 @@
 # NitroGen
 Generates + Checks Discord Nitro codes
 
+I did not originally create this project but I fixed + adapted it.
+
 This is PURELY proof of concept!!!
 
 To use:
