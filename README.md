@@ -1,7 +1,7 @@
 # NitroGen
 Generates + Checks Discord Nitro codes
 
-It is very unlikely you will generate a working codebut oh well.
+It is unlikely you will generate a working code but worth a try.
 
 
 
